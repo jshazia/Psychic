@@ -1,0 +1,17 @@
+body {
+    color: white;
+    font-family: 'Krona One', sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: aqua;
+    border: 2px double plum;
+    margin: 0px 350px 0px 350px;
+}
+
+#text {
+    color: plum;
+    border: 2px double aqua;
+    margin: 0px 350px 0px 350px;
+}
